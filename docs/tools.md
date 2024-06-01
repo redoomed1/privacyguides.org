@@ -402,7 +402,8 @@ For encrypting your operating system drive, we typically recommend using whichev
 
 </div>
 
-[Learn more :material-arrow-right-drop-circle:](productivity.md)
+[Learn more :material-arrow-right-drop-circle:](pastebins.md)
+
 ### Productivity Tools
 
 <div class="grid cards" markdown>
