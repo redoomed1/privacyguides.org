@@ -10,7 +10,7 @@ A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is an online service most c
 
 <div class="admonition recommendation" markdown>
 
-![PrivateBin logo](assets/img/productivity/privatebin.svg){ align=right }
+![PrivateBin logo](assets/img/pastebins/privatebin.svg){ align=right }
 
 **PrivateBin** is a minimalist, open-source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256-bit AES. It is the improved version of ZeroBin.
 
