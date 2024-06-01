@@ -398,7 +398,7 @@ For encrypting your operating system drive, we typically recommend using whichev
 
 <div class="grid cards" markdown>
 
-- ![PrivateBin logo](assets/img/pastebins/privatebin.svg){ .twemoji loading=lazy } [PrivateBin (Pastebin)](pastebins.md#privatebin)
+- ![PrivateBin logo](assets/img/pastebins/privatebin.svg){ .twemoji loading=lazy } [PrivateBin](pastebins.md#privatebin)
 
 </div>
 
