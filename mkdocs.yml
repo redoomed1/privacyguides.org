@@ -407,6 +407,7 @@ nav:
           - "calendar.md"
           - "cryptocurrency.md"
           - "data-redaction.md"
+          - "document-collaboration.md"
           - "email-clients.md"
           - "encryption.md"
           - "file-sharing.md"
@@ -415,7 +416,6 @@ nav:
           - "news-aggregators.md"
           - "notebooks.md"
           - "passwords.md"
-          - "productivity.md"
           - "real-time-communication.md"
       - !ENV [NAV_HARDWARE, "Hardware"]:
           - "security-keys.md"
