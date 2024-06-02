@@ -70,12 +70,12 @@ We don't recommend using the [E2EE App](https://apps.nextcloud.com/apps/end_to_e
 
 In general, we define collaboration platforms as full-fledged suites which could reasonably act as a replacement to Google Drive.
 
-- Open source.
-- Makes files accessible via WebDAV unless it is impossible due to E2EE.
-- Has sync clients for Linux, macOS, and Windows.
-- Supports document and spreadsheet editing.
-- Supports real-time document collaboration.
-- Supports exporting documents to standard document formats (e.g. ODF).
+- Must be open source.
+- Must make files accessible via WebDAV unless it is impossible due to E2EE.
+- Must have sync clients for Linux, macOS, and Windows.
+- Must support document and spreadsheet editing.
+- Must support real-time document collaboration.
+- Must support exporting documents to standard document formats (e.g. ODF).
 
 #### Best-Case
 
