@@ -48,7 +48,7 @@ We don't recommend using the [E2EE App](https://apps.nextcloud.com/apps/end_to_e
 
 <div class="admonition recommendation" markdown>
 
-![CryptPad logo](assets/img/productivity/cryptpad.svg){ align=right }
+![CryptPad logo](assets/img/document-collaboration/cryptpad.svg){ align=right }
 
 **CryptPad** is a private-by-design alternative to popular office tools. All content on this web service is end-to-end encrypted and can be shared with other users easily.
 
@@ -68,7 +68,7 @@ We don't recommend using the [E2EE App](https://apps.nextcloud.com/apps/end_to_e
 
 #### Minimum Requirements
 
-In general, we define collaboration platforms as full-fledged suites which could reasonably act as a replacement to collaboration platforms like Google Drive.
+In general, we define collaboration platforms as full-fledged suites which could reasonably act as a replacement to Google Drive.
 
 - Open source.
 - Makes files accessible via WebDAV unless it is impossible due to E2EE.
