@@ -377,6 +377,17 @@ For encrypting your operating system drive, we typically recommend using whichev
 
 [Learn more :material-arrow-right-drop-circle:](notebooks.md)
 
+### Office Suites
+
+<div class="grid cards" markdown>
+
+- ![LibreOffice logo](assets/img/office-suites/libreoffice.svg){ .twemoji loading=lazy } [LibreOffice](office-suites.md#libreoffice)
+- ![OnlyOffice logo](assets/img/office-suites/onlyoffice.svg){ .twemoji loading=lazy } [OnlyOffice](office-suites.md#onlyoffice)
+
+</div>
+
+[Learn more :material-arrow-right-drop-circle:](office-suites.md)
+
 ### Password Managers
 
 <div class="grid cards" markdown>
@@ -399,8 +410,6 @@ For encrypting your operating system drive, we typically recommend using whichev
 <div class="grid cards" markdown>
 
 - ![Nextcloud logo](assets/img/productivity/nextcloud.svg){ .twemoji loading=lazy } [Nextcloud (Self-Hostable)](productivity.md#nextcloud)
-- ![LibreOffice logo](assets/img/productivity/libreoffice.svg){ .twemoji loading=lazy } [LibreOffice](productivity.md#libreoffice)
-- ![OnlyOffice logo](assets/img/productivity/onlyoffice.svg){ .twemoji loading=lazy } [OnlyOffice](productivity.md#onlyoffice)
 - ![CryptPad logo](assets/img/productivity/cryptpad.svg){ .twemoji loading=lazy } [CryptPad](productivity.md#cryptpad)
 - ![PrivateBin logo](assets/img/productivity/privatebin.svg){ .twemoji loading=lazy } [PrivateBin (Pastebin)](productivity.md#privatebin)
 - ![LanguageTool logo](assets/img/productivity/languagetool.svg#only-light){ .twemoji loading=lazy }![LanguageTool logo](assets/img/productivity/languagetool-dark.svg#only-dark){ .twemoji loading=lazy } [LanguageTool](productivity.md#languagetool)
