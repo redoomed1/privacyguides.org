@@ -437,6 +437,16 @@ For encrypting your operating system drive, we typically recommend using whichev
 
 [Learn more :material-arrow-right-drop-circle:](security-keys.md)
 
+### Mobile Phones
+
+<div class="grid cards" markdown>
+
+- ![Google Pixel 6](../assets/img/android/google-pixel.png){ .twemoji loading=lazy } [Google Pixel](mobile-phones.md#google-pixel)
+
+</div>
+
+[Learn more :material-arrow-right-drop-circle:](mobile-phones.md)
+
 ## Operating Systems
 
 ### Mobile
