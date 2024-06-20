@@ -4,6 +4,9 @@ icon: material/cellphone-check
 description: These mobile devices have proper Android Verified Boot support for custom operating systems.
 cover: android.webp
 ---
+The mobile devices listed here provide a long lifespan of guaranteed security updates and allow you to install a custom operating system without violating the Android security model.
+
+- [Custom Android OSes we recommend :material-arrow-right-drop-circle:](android/custom-os.md){ .md-button }
 
 <div class="admonition warning" markdown>
 <p class="admonition-title">Warning</p>
