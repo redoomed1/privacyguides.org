@@ -3,6 +3,21 @@ title: "Mobile Phones"
 icon: material/cellphone-check
 description: These mobile devices have proper Android Verified Boot support for custom operating systems.
 cover: android.webp
+schema:
+  -
+    "@context": http://schema.org
+    "@type": Product
+    name: Pixel
+    brand:
+      "@type": Brand
+      name: Google
+    image: /assets/img/android/google-pixel.png
+    sameAs: https://en.wikipedia.org/wiki/Google_Pixel
+    review:
+      "@type": Review
+      author:
+        "@type": Organization
+        name: Privacy Guides
 ---
 The mobile devices listed here provide a long lifespan of guaranteed security updates and allow you to install a custom operating system without violating the Android security model.
 
