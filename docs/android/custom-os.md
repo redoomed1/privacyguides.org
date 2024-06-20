@@ -11,13 +11,6 @@ schema:
   -
     "@context": http://schema.org
     "@type": CreativeWork
-    name: Android
-    image: /assets/img/android/android.svg
-    url: https://source.android.com/
-    sameAs: https://en.wikipedia.org/wiki/Android_(operating_system)
-  -
-    "@context": http://schema.org
-    "@type": CreativeWork
     name: GrapheneOS
     image: /assets/img/android/grapheneos.svg
     url: https://grapheneos.org/
