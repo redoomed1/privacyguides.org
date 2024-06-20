@@ -6,7 +6,7 @@ cover: android.webp
 ---
 The mobile devices listed here provide a long lifespan of guaranteed security updates and allow you to install a custom operating system without violating the Android security model.
 
-- [Custom Android OSes we recommend :material-arrow-right-drop-circle:](android/custom-os.md){ .md-button }
+[Custom Android OSes we recommend :material-arrow-right-drop-circle:](android/custom-os.md){ .md-button }
 
 <div class="admonition warning" markdown>
 <p class="admonition-title">Warning</p>
@@ -15,7 +15,7 @@ End-of-life devices (such as GrapheneOS's or CalyxOS's "extended support" device
 
 </div>
 
-## Android Devices
+## Purchasing Advice
 
 When purchasing a device, we recommend getting one as new as possible. The software and firmware of mobile devices are only supported for a limited time, so buying new extends that lifespan as much as possible.
 
@@ -29,7 +29,7 @@ A few more tips regarding Android devices and operating system compatibility:
 - Do not buy preloaded LineageOS or /e/ OS phones or any Android phones without proper [Verified Boot](https://source.android.com/security/verifiedboot) support and firmware updates. These devices also have no way for you to check whether they've been tampered with.
 - In short, if a device is not listed here, there is probably a good reason. Check out our [forum](https://discuss.privacyguides.net) to find details!
 
-### Google Pixel
+## Google Pixel
 
 Google Pixel phones are the **only** devices we recommend for purchase. Pixel phones have stronger hardware security than any other Android devices currently on the market, due to proper AVB support for third-party operating systems and Google's custom [Titan](https://security.googleblog.com/2021/10/pixel-6-setting-new-standard-for-mobile.html) security chips acting as the Secure Element.
 
