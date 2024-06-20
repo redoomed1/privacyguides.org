@@ -1,5 +1,30 @@
 ---
 title: "General Apps"
+schema:
+  -
+    "@context": http://schema.org
+    "@type": MobileApplication
+    name: Shelter
+    applicationCategory: Utilities
+    operatingSystem: Android
+  -
+    "@context": http://schema.org
+    "@type": MobileApplication
+    name: Auditor
+    applicationCategory: Utilities
+    operatingSystem: Android
+  -
+    "@context": http://schema.org
+    "@type": MobileApplication
+    name: Secure Camera
+    applicationCategory: Utilities
+    operatingSystem: Android
+  -
+    "@context": http://schema.org
+    "@type": MobileApplication
+    name: Secure PDF Viewer
+    applicationCategory: Utilities
+    operatingSystem: Android
 ---
 We recommend a wide variety of Android apps throughout this site. The apps listed here are Android-exclusive and specifically enhance or replace key system functionality.
 
