@@ -20,4 +20,4 @@ We recommend the following Android-specific tools to maximize your mobile device
 
 To learn more about Android:
 
-[General Android Overview :material-arrow-right-drop-circle:](os/android-overview.md){ .md-button }
+[General Android Overview :material-arrow-right-drop-circle:](../os/android-overview.md){ .md-button }
