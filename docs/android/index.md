@@ -2,6 +2,14 @@
 title: "Android"
 icon: 'simple/android'
 cover: android.webp
+schema:
+  -
+    "@context": http://schema.org
+    "@type": CreativeWork
+    name: Android
+    image: /assets/img/android/android.svg
+    url: https://source.android.com/
+    sameAs: https://en.wikipedia.org/wiki/Android_(operating_system)
 ---
 
 ![Android logo](../assets/img/android/android.svg){ align=right }
