@@ -5,8 +5,8 @@ description: These mobile devices have proper Android Verified Boot support for 
 cover: android.webp
 ---
 
-<div class="admonition note" markdown>
-<p class="admonition-title">Note</p>
+<div class="admonition warning" markdown>
+<p class="admonition-title">Warning</p>
 
 End-of-life devices (such as GrapheneOS's or CalyxOS's "extended support" devices) do not have full security patches (firmware updates) due to the OEM discontinuing support. These devices cannot be considered completely secure regardless of installed software.
 
@@ -22,9 +22,9 @@ Be very **careful** about buying second hand phones from online marketplaces. Al
 
 A few more tips regarding Android devices and operating system compatibility:
 
-- Do not buy devices that have reached or are near their end-of-life, additional firmware updates must be provided by the manufacturer.
+- Do not buy devices that have reached or are near their end-of-life; additional firmware updates must be provided by the manufacturer.
 - Do not buy preloaded LineageOS or /e/ OS phones or any Android phones without proper [Verified Boot](https://source.android.com/security/verifiedboot) support and firmware updates. These devices also have no way for you to check whether they've been tampered with.
-- In short, if a device or Android distribution is not listed here, there is probably a good reason. Check out our [forum](https://discuss.privacyguides.net) to find details!
+- In short, if a device is not listed here, there is probably a good reason. Check out our [forum](https://discuss.privacyguides.net) to find details!
 
 ### Google Pixel
 
@@ -32,7 +32,7 @@ Google Pixel phones are the **only** devices we recommend for purchase. Pixel ph
 
 <div class="admonition recommendation" markdown>
 
-![Google Pixel 6](assets/img/android/google-pixel.png){ align=right }
+![Google Pixel 6](../assets/img/android/google-pixel.png){ align=right }
 
 **Google Pixel** devices are known to have good security and properly support [Verified Boot](https://source.android.com/security/verifiedboot), even when installing custom operating systems.
 
@@ -69,7 +69,7 @@ A few more tips for purchasing a Google Pixel:
 
 ## Criteria
 
-**Please note we are not affiliated with any of the projects we recommend.** In addition to [our standard criteria](about/criteria.md), we have developed a clear set of requirements to allow us to provide objective recommendations. We suggest you familiarize yourself with this list before choosing to use a project, and conduct your own research to ensure it's the right choice for you.
+**Please note we are not affiliated with any of the projects we recommend.** In addition to [our standard criteria](../about/criteria.md), we have developed a clear set of requirements to allow us to provide objective recommendations. We suggest you familiarize yourself with this list before choosing to use a project, and conduct your own research to ensure it's the right choice for you.
 
 - Must support at least one of our recommended custom operating systems.
 - Must be currently sold new in stores.
