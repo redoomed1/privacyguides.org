@@ -1,7 +1,7 @@
 ---
 title: "Obtaining Applications"
 ---
-
+We recommend the following methods of obtaining applications on Android, listed in order of preference.
 
 ## Obtainium
 
