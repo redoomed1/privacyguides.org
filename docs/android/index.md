@@ -10,7 +10,7 @@ The **Android Open Source Project** is an open-source mobile operating system le
 
 [:octicons-home-16:](https://source.android.com){ .card-link title=Homepage }
 [:octicons-info-16:](https://source.android.com/docs){ .card-link title=Documentation}
-[:octicons-code-16:](https://cs.android.com/android/platform/superproject){ .card-link title="Source Code" }
+[:octicons-code-16:](https://cs.android.com/android/platform/superproject/main){ .card-link title="Source Code" }
 
 We recommend the following Android-specific tools to maximize your mobile device's security and privacy.
 
