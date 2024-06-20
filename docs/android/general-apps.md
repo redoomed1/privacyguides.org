@@ -7,7 +7,7 @@ We recommend a wide variety of Android apps throughout this site. The apps liste
 
 <div class="admonition recommendation" markdown>
 
-![Shelter logo](assets/img/android/shelter.svg){ align=right }
+![Shelter logo](../assets/img/android/shelter.svg){ align=right }
 
 **Shelter** is an app that helps you leverage Android's Work Profile functionality to isolate or duplicate apps on your device.
 
@@ -32,8 +32,8 @@ When using Shelter, you are placing complete trust in its developer, as Shelter 
 
 <div class="admonition recommendation" markdown>
 
-![Secure camera logo](assets/img/android/secure_camera.svg#only-light){ align=right }
-![Secure camera logo](assets/img/android/secure_camera-dark.svg#only-dark){ align=right }
+![Secure camera logo](../assets/img/android/secure_camera.svg#only-light){ align=right }
+![Secure camera logo](../assets/img/android/secure_camera-dark.svg#only-dark){ align=right }
 
 **Secure Camera** is a camera app focused on privacy and security which can capture images, videos and QR codes. CameraX vendor extensions (Portrait, HDR, Night Sight, Face Retouch, and Auto) are also supported on available devices.
 
@@ -64,7 +64,7 @@ Main privacy features include:
 
 Metadata is not currently deleted from video files but that is planned.
 
-The image orientation metadata is not deleted. If you enable location (in Secure Camera) that **won't** be deleted either. If you want to delete that later you will need to use an external app such as [ExifEraser](data-redaction.md#exiferaser-android).
+The image orientation metadata is not deleted. If you enable location (in Secure Camera) that **won't** be deleted either. If you want to delete that later you will need to use an external app such as [ExifEraser](../data-redaction.md#exiferaser-android).
 
 </div>
 
@@ -72,8 +72,8 @@ The image orientation metadata is not deleted. If you enable location (in Secure
 
 <div class="admonition recommendation" markdown>
 
-![Secure PDF Viewer logo](assets/img/android/secure_pdf_viewer.svg#only-light){ align=right }
-![Secure PDF Viewer logo](assets/img/android/secure_pdf_viewer-dark.svg#only-dark){ align=right }
+![Secure PDF Viewer logo](../assets/img/android/secure_pdf_viewer.svg#only-light){ align=right }
+![Secure PDF Viewer logo](../assets/img/android/secure_pdf_viewer-dark.svg#only-dark){ align=right }
 
 **Secure PDF Viewer** is a PDF viewer based on [pdf.js](https://en.wikipedia.org/wiki/PDF.js) that doesn't require any permissions. The PDF is fed into a [sandboxed](https://en.wikipedia.org/wiki/Sandbox_(software_development)) [webview](https://developer.android.com/guide/webapps/webview). This means that it doesn't require permission directly to access content or files.
 
@@ -96,7 +96,7 @@ The image orientation metadata is not deleted. If you enable location (in Secure
 
 ## Criteria
 
-**Please note we are not affiliated with any of the projects we recommend.** In addition to [our standard criteria](about/criteria.md), we have developed a clear set of requirements to allow us to provide objective recommendations. We suggest you familiarize yourself with this list before choosing to use a project, and conduct your own research to ensure it's the right choice for you.
+**Please note we are not affiliated with any of the projects we recommend.** In addition to [our standard criteria](../about/criteria.md), we have developed a clear set of requirements to allow us to provide objective recommendations. We suggest you familiarize yourself with this list before choosing to use a project, and conduct your own research to ensure it's the right choice for you.
 
 - Applications on this page must not be applicable to any other software category on the site.
 - General applications should extend or replace core system functionality.
