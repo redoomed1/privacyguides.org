@@ -6,7 +6,7 @@ cover: android.webp
 ---
 The mobile devices listed here provide a long lifespan of guaranteed security updates and allow you to install a custom operating system without violating the Android security model.
 
-[Recommended Custom OSes :material-arrow-right-drop-circle:](android/custom-os.md){ .md-button .md-button--primary } [Details about the Android Security Model :material-arrow-right-drop-circle:](../os/android-overview.md#security-protection){ .md-button }
+[Recommended Custom OSes :material-arrow-right-drop-circle:](android/custom-os.md){ .md-button .md-button--primary } [Details about the Android Security Model :material-arrow-right-drop-circle:](os/android-overview.md#security-protections){ .md-button }
 
 <div class="admonition warning" markdown>
 <p class="admonition-title">Warning</p>
