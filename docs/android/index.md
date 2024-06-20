@@ -1,0 +1,23 @@
+---
+title: "Android"
+icon: 'simple/android'
+cover: android.webp
+---
+
+![Android logo](assets/img/android/android.svg){ align=right }
+
+The **Android Open Source Project** is an open-source mobile operating system led by Google which powers the majority of the world's mobile devices. Most phones sold with Android are modified to include invasive integrations and apps such as Google Play Services, so you can significantly improve your privacy on your mobile device by replacing your phone's default installation with a version of Android without these invasive features.
+
+[:octicons-home-16:](https://source.android.com){ .card-link title=Homepage }
+[:octicons-info-16:](https://source.android.com/docs){ .card-link title=Documentation}
+[:octicons-code-16:](https://cs.android.com/android/platform/superproject){ .card-link title="Source Code" }
+
+We recommend the following Android-specific tools to maximize your mobile device's security and privacy.
+
+- [Custom Operating Systems](custom-os.md)
+- [Obtaining Applications](obtaining-apps.md)
+- [General Apps](general-apps.md)
+
+To learn more about Android:
+
+[General Android Overview :material-arrow-right-drop-circle:](os/android-overview.md){ .md-button }
