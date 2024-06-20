@@ -462,7 +462,7 @@ For encrypting your operating system drive, we typically recommend using whichev
 
 </div>
 
-[Learn more :material-arrow-right-drop-circle:](android.md#general-apps.md)
+[Learn more :material-arrow-right-drop-circle:](android/general-apps.md)
 
 #### Ways to Obtain Android Apps
 
@@ -473,7 +473,7 @@ For encrypting your operating system drive, we typically recommend using whichev
 
 </div>
 
-[Learn more :material-arrow-right-drop-circle:](android.md#obtaining-apps.md)
+[Learn more :material-arrow-right-drop-circle:](android/obtaining-apps.md)
 
 ### Desktop/PC
 
