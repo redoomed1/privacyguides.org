@@ -17,7 +17,7 @@ This problem could be solved by using a custom Android distribution that does no
 
 Ideally, when choosing a custom Android distribution, you should make sure that it upholds the Android security model. At the very least, the distribution should have production builds, support for AVB, rollback protection, timely firmware and operating system updates, and SELinux in [enforcing mode](https://source.android.com/security/selinux/concepts#enforcement_levels). All of our recommended Android distributions satisfy these criteria.
 
-[Our Android System Recommendations :material-arrow-right-drop-circle:](../android/custom-os.md){ .md-button }
+[Our Android System Recommendations :material-arrow-right-drop-circle:](../android/distributions.md){ .md-button }
 
 ### Avoid Rooting
 
