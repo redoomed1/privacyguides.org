@@ -22,9 +22,9 @@ The **Android Open Source Project** is an open-source mobile operating system le
 
 We recommend the following Android-specific tools to maximize your mobile device's security and privacy.
 
-- [Custom Operating Systems](distributions.md)
-- [Obtaining Applications](obtaining-apps.md)
+- [Alternative Distributions](distributions.md)
 - [General Apps](general-apps.md)
+- [Obtaining Applications](obtaining-apps.md)
 
 To learn more about Android:
 
