@@ -1,7 +1,7 @@
 ---
 title: "Obtaining Applications"
 ---
-We recommend the following methods of obtaining applications on Android, listed in order of preference.
+There are many ways to obtain Android apps privately, even from the Play Store, without interacting with Google Play Services. We recommend the following methods of obtaining applications on Android, listed in order of preference.
 
 ## Obtainium
 
