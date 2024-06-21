@@ -4,7 +4,7 @@ icon: material/file-edit-outline
 description: These office suites offer their full functionality without an account and can be used offline.
 cover: office-suites.webp
 ---
-Choose an office suite that does not require logging in to an account to access its full functionality. The tools listed here can be used offline and could reasonably act as a replacement for Microsoft Office for most needs.
+Choose an **office suite** that does not require logging in to an account to access its full functionality. The tools listed here can be used offline and could reasonably act as a replacement for Microsoft Office for most needs.
 
 ## LibreOffice
 
