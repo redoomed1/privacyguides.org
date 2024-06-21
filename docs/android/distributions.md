@@ -31,7 +31,7 @@ schema:
       "@type": WebPage
       url: "./"
 ---
-A custom **Android-based operating system** (often known as a **Custom ROM**) is a popular way to achieve higher levels of privacy and security on your device. This is in contrast to the "stock" version of Android which comes with your phone from the factory, and is often highly integrated with Google Play Services.
+A custom **Android-based operating system** (often known as a **Custom ROM**) is a popular way to achieve higher levels of privacy and security on your device. This is in contrast to the "stock" version of Android which comes with your phone from the factory, and is often deeply integrated with Google Play Services.
 
 We recommend installing one of these custom Android operating systems on your device, listed in order of preference, depending on your device's compatibility with these operating systems.
 
