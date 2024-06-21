@@ -4,7 +4,7 @@ icon: material/content-paste
 description: These tools allow you to have full control of any pasted data you share to other parties.
 cover: pastebins.webp
 ---
-A [pastebin](https://en.wikipedia.org/wiki/Pastebin) is an online service most commonly used to share large blocks of code in a convenient and efficient manner. The pastebins listed here employ client-side encryption and password protection for pasted content; both of these features prevent the website or server operator from reading or accessing the contents of any paste.
+[**Pastebins**](https://en.wikipedia.org/wiki/Pastebin) are online services most commonly used to share large blocks of code in a convenient and efficient manner. The pastebins listed here employ client-side encryption and password protection for pasted content; both of these features prevent the website or server operator from reading or accessing the contents of any paste.
 
 ## PrivateBin
 
