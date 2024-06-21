@@ -26,7 +26,7 @@ The mobile devices listed here provide a long lifespan of guaranteed security up
 <div class="admonition warning" markdown>
 <p class="admonition-title">Warning</p>
 
-End-of-life devices (such as GrapheneOS's or CalyxOS's "extended support" devices) do not have full security patches (firmware updates) due to the OEM discontinuing support. These devices cannot be considered completely secure regardless of installed software.
+End-of-life devices (such as GrapheneOS's "extended support" devices) do not have full security patches (firmware updates) due to the OEM discontinuing support. These devices cannot be considered completely secure regardless of installed software.
 
 </div>
 
