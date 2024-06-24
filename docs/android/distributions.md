@@ -1,5 +1,5 @@
 ---
-meta_title: "Android Recommendations: GrapheneOS and DivestOS - Privacy Guides"
+meta_title: "The Best Custom Android OSes (aka Custom ROMs) - Privacy Guides"
 title: "Alternative Distributions"
 description: You can replace the operating system on your Android phone with these secure and privacy-respecting alternatives.
 schema:
